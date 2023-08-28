@@ -1,0 +1,9 @@
+{
+	"name": "adfvbatch1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c7e112c-f7b8-41b3-bfbd-94cd2b89da78",
+		"tenantId": "704ce3d6-a4bf-4e09-8516-d52840c9f7a9"
+	}
+}
